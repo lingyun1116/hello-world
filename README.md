@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+hello, humans
+i am very glad to meet you all
+
